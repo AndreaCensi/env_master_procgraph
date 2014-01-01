@@ -1,0 +1,14 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_master_procgraph.git
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: master
+
+- dir: src/system_cmd
+  url: git@github.com:AndreaCensi/system_cmd.git
+  branch: master
+
+- dir: src/procgraph
+  url: git@github.com:AndreaCensi/procgraph.git
+  branch: master
